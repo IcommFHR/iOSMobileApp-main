@@ -1,0 +1,7 @@
+{
+  "name": "FormulaHR",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

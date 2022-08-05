@@ -1,0 +1,14 @@
+{
+    "Security.framework": 1,
+    "SystemConfiguration.framework": 2,
+    "ImageIO.framework": 1,
+    "CoreLocation.framework": 5,
+    "AVFoundation.framework": 2,
+    "CoreTelephony.framework": 1,
+    "SafariServices.framework": 1,
+    "QuartzCore.framework": 1,
+    "Photos.framework": 1,
+    "UserNotifications.framework": 1,
+    "PushKit.framework": 1,
+    "WebKit.framework": 1
+}
